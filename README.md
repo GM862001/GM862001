@@ -7,7 +7,7 @@ I'm passionate about everything that concerns intelligence, creativity and beaut
 * Bachelor of Science in Computer Engineering at the Università di Pisa (expected graduation data: 2021/09)
 
 📚 Academic repositories:  
-_Coming soon..._
+* ERP_Database
 
 📌 Projects:  
 _Coming soon..._
