@@ -6,10 +6,10 @@ I'm passionate about everything that concerns intelligence, creativity and beaut
 🎓Academic backgroud:
 * Bachelor of Science in Computer Engineering at the Università di Pisa (expected graduation data: 2021/09)
 
-📚 Academic repositories:  
+📚 Academic projects:  
 * ERP_Database
 
-📌 Projects:  
+📌 Other projects:  
 _Coming soon..._
 
 📫 Contacts:
