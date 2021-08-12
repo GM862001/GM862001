@@ -8,6 +8,7 @@ I'm fond of everything that concerns intelligence, creativity and beauty: I devo
 
 📚 Academic projects:  
 * ERP_Database
+* CovidNetworkApplication
 
 📌 Other projects:  
 _Coming soon..._
