@@ -1,7 +1,7 @@
 # Hi There!
 I am a 20 year old passionate Computer Engineering Student and I'm currently working on my Bachelor Thesis about Federated Learning.
 My main academic interests are Artificial Intelligence and Data Science, and I'm practicing to get prepared for interviews to get interniships and acquire new experiences in these fields.
-I'm passionate about everything that concerns intelligence, creativity and beauty: I devote myself to sports, readings, music (I play both the piano and the guitar since I was a kid), and even chess! 
+I'm fond of everything that concerns intelligence, creativity and beauty: I devote myself to sports, readings, music (I play both the piano and the guitar since I was a kid), and even chess! 
 
 🎓Academic backgroud:
 * Bachelor of Science in Computer Engineering at the Università di Pisa (expected graduation data: 2021/09)
