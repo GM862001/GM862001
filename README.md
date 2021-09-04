@@ -6,12 +6,9 @@ I'm fond of everything that concerns intelligence, creativity and beauty: I devo
 🎓Academic backgroud:
 * Bachelor of Science in Computer Engineering at the Università di Pisa (expected graduation data: 2021/09)
 
-📚 Academic projects:  
+📌 Projects:  
 * ERP_Database
 * CovidNetworkApplication
-
-📌 Other projects:  
-_Coming soon..._
 
 📫 Contacts:
 * [eMail](mailto:gmarinogh.8601@gmail.com)
