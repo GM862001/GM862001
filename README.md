@@ -4,7 +4,7 @@ My main academic interests are Artificial Intelligence and Data Science, and I'm
 I'm fond of everything that concerns intelligence, creativity and beauty: I devote myself to sports, readings, music (I play both the piano and the guitar since I was a kid), and even chess! 
 
 🎓Academic backgroud:
-* Bachelor of Science in Computer Engineering at the Università di Pisa (expected graduation data: 2021/09)
+* Bachelor of Science in Computer Engineering at the Università di Pisa (expected graduation date: 2021/09)
 
 📌 Projects:  
 * ERP_Database
