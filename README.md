@@ -8,7 +8,7 @@ I'm fond of everything that concerns intelligence, creativity and beauty: I devo
 * Bachelor of Science in Computer Engineering at the Università di Pisa (graduation date: 2021/09, 110/110 cum Laude)
 
 📌 Main Projects:  
-* Federated DBSCAN
+* F_DBSCAN
 
 📚 Other Projects:
 * ERP_Database
