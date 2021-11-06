@@ -1,7 +1,7 @@
 # Hi There!
-I am a 20 year old passionate Computer Science student and I'm currently pursuing my Master's Degree in Artificial Intelligence.
-My main academic interests are Software Engineering, Machine Learning and Data Science, and I'm practicing to prepare myself for interviews to get interniships and acquire new experiences in these fields.
-I'm fond of everything that concerns intelligence, creativity and beauty: I devote myself to sports, readings, music (I play both the piano and the guitar since I was a kid), and even chess! 
+I am a 20-year-old passionate Computer Science student. I'm currently pursuing my Master's Degree in Artificial Intelligence.  
+My main academic interests are Software Engineering and Machine Learning, and I'm practicing to prepare myself for interviews to get internships and acquire new experiences in these fields.  
+I'm fond of everything that concerns intelligence, creativity, and beauty: I devote myself to sports, readings, music (I have played both the piano and the guitar ever since I was a kid), and even chess!  
 
 🎓Academic backgroud:
 * Master's Degree in Computer Science, Artificial Intelligence Curriculum at the Università di Pisa (expected graduation date: 2023/09)
