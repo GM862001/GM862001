@@ -8,10 +8,10 @@ I'm fond of everything that concerns intelligence, creativity, and beauty: I dev
 * Bachelor of Science in Computer Engineering at the Università di Pisa (graduation date: 2021/09, 110/110 cum Laude)
 
 📌 Main Projects:  
-* F_DBSCAN
+* F_DBSCAN: Implementation and Analysis of Horizontal and Vertical Federated Versions of DBSCAN
 
 📚 Other Projects:
-* ERP_Database: Enterprise Resource Planning Database Design, Implementation and Analysis
+* ERP_Database: Design, Implementation and Analysis of an Enterprise Resource Planning Database
 * CovidNetworkApplication
 * MLP_Implementation
 
