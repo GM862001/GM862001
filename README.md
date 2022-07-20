@@ -13,7 +13,7 @@ I'm fond of everything that concerns intelligence, creativity, and beauty: I dev
 📚 Other Projects:
 * ERP_Database: Design, Implementation and Analysis of an Enterprise Resource Planning Database
 * CovidNetworkApplication: Peer-to-Peer Network Application Implementing Covid-19 Data Sharing
-* MLP_Implementation: MLP for Binary Classification and Regression Implementation from Scratch with Grid Search
+* MLP_Implementation: Implementation from scratch of a MLP for Binary Classification and Regression with Grid Search
 
 📫 Contacts:
 * [eMail](mailto:gmarinogh.8601@gmail.com)
