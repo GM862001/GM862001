@@ -11,7 +11,7 @@ I'm fond of everything that concerns intelligence, creativity, and beauty: I dev
 * F_DBSCAN
 
 📚 Other Projects:
-* ERP_Database
+* ERP_Database: Enterprise Resource Planning Database Design, Implementation and Analysis
 * CovidNetworkApplication
 * MLP_Implementation
 
